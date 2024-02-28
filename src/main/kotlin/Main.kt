@@ -1,5 +1,7 @@
 fun main()
 {
     println("Hi")
-    print("this is Avi")
+    println("this is Avi")
+    var avi: Int = 6
+    println(avi)
 }
